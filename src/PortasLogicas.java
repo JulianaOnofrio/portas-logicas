@@ -21,7 +21,7 @@ public class PortasLogicas {
         System.out.println(portasNOT.testePortaNOT(verdadeiro));//1)
         boolean x = portaAND.testePortaAND(true, true);
         boolean y = portasNOT.testePortaNOT(x); //2)
-        System.out.println("Y será BAIXO somente para A = B = " + y);
+        System.out.println(" Y será BAIXO somente para A = B = " + y);
 
 
     }

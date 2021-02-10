@@ -12,5 +12,4 @@ public class PortasOR {
     }
 }
 
-
 // if pode ser simplificado
